@@ -20,6 +20,8 @@ source streamlit/Scripts/activate
 pip install streamlit
 
 # Exports the OPENAPI_KEY environment variable, which is used in the python script to access the OpenAI API. This is fake key. Don't use it.
+# GO to the OpenAI website and SignUp for a Key in the Below Link.
+# https://platform.openai.com/account/api-keys
 export OPENAPI_KEY=sk-9wvblVeu2fMYmgo7t1gqjkcjAvW0uOaTNQ3lG6HKt37PjSUa
 
 # run_ui.py script using the streamlit run command. 
