@@ -35,7 +35,7 @@ def main():
     st.title("Smart Business Name Generator!")
     search_term = st.text_input("Enter your business industry")
     if search_term:
-        with st.spinner('Wait for it...'):
+        with st.spinner('Hang tight! Our AI business name generator is busy coming up with the next big thing. In the meantime, try counting the number of times the loading icon spins. Bonus points if you can do it without losing your mind!'):
             results = generate_name(search_term)
             st.write(results)
             st.success('Done!')
