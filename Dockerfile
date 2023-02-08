@@ -14,4 +14,4 @@ RUN pip install streamlit pandas requests
 ENV OPENAPI_KEY=<your_api_key>
 
 # Run the script when the container launches
-CMD [ "python", "./run_ui.py" ]
+CMD [ "streamlit", "run", "./run_ui.py" ]
