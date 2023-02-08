@@ -8,9 +8,13 @@ bash Miniconda3-latest-MacOSX-x86_64.sh
 # Creates a new virtual environment named "streamlit" and sets the python version to 3.10.8. 
 # The "-y" option means it will run without confirming and "-n" option is used to specify the name of the environment.
 conda create -y -n streamlit python=3.10.8
+or
+python -m venv streamlit
 
 # Activates the "streamlit" environment, so all packages installed after this point will be installed within the "streamlit" environment.
 conda activate streamlit
+or
+source streamlit/Scripts/activate
 
 # Installs the streamlit package, which is a web framework for building data apps in python.
 pip install streamlit
