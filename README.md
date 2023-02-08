@@ -10,4 +10,4 @@ So if you're ready to take your business to the next level, give "Streamlit-GPT3
 
 ![ScreenShot](https://{url}](https://github.com/ksheerasagar17/Streamlit-GPT3-Business-Name-Generator/blob/main/screenshot.png))
 
-![ScreenShot](https://{url}](https://raw.github.com/ksheerasagar17/Streamlit-GPT3-Business-Name-Generator/main/screenshot.png))
+![ScreenShot](https://raw.github.com/ksheerasagar17/Streamlit-GPT3-Business-Name-Generator/main/screenshot.png)
