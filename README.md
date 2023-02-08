@@ -7,3 +7,5 @@ Starting a new business can be a daunting task, but coming up with the perfect n
 Using the power of GPT-3, this project generates names that are not only relevant to your business but also memorable and catchy. Whether you're starting a small local business or a large multinational corporation, this project has got you covered!
 
 So if you're ready to take your business to the next level, give "Streamlit-GPT3-Business-Name-Generator" a try today! It's quick, easy, and guaranteed to deliver results you'll love.
+
+![Alt text](/screenshot.png?raw=true "Optional Title"
