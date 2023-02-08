@@ -1,3 +1,9 @@
+# This is a Streamlit Python script for a web application that generates business names and explanations for a company in a specified industry. The script uses the OpenAI API for generating the names and explanations.
+
+# The generate_name function takes the user's specified business industry as input and sends a prompt to the OpenAI API. The function then sends an API request with specified parameters and an API key obtained from an environment variable. The response from the API is in JSON format and contains the generated business names and explanations.
+
+# The main function is the main UI function for the application. It includes a text input for the user to enter the business industry, and if a value is entered, the results of the generate_name function are displayed with a loading spinner. If the script is executed as the main module, the main function is called.
+
 import streamlit as st
 import requests
 import json
