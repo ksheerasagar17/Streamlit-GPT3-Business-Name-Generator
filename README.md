@@ -11,6 +11,6 @@ So if you're ready to take your business to the next level, give "Streamlit-GPT3
 ##Docker
 https://hub.docker.com/r/ksheerasagar17/st-gpt3-bng
 
-```docker pull ksheerasagar17/st-gpt3-bng```
+```docker pull ksheerasagar17/st-gpt3-bng:latest```
 
 ![Business Name Generator UI ScreenShot](https://raw.github.com/ksheerasagar17/Streamlit-GPT3-Business-Name-Generator/main/screenshot.png)
