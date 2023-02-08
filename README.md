@@ -8,4 +8,4 @@ Using the power of GPT-3, this project generates names that are not only relevan
 
 So if you're ready to take your business to the next level, give "Streamlit-GPT3-Business-Name-Generator" a try today! It's quick, easy, and guaranteed to deliver results you'll love.
 
-![Alt text]([/screenshot.png](https://github.com/ksheerasagar17/Streamlit-GPT3-Business-Name-Generator/blob/main/screenshot.png)?raw=true "Optional Title"
+![ScreenShot](https://{url}](https://github.com/ksheerasagar17/Streamlit-GPT3-Business-Name-Generator/blob/main/screenshot.png))
