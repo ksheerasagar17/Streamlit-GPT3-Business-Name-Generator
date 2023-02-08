@@ -18,6 +18,6 @@ pip install streamlit
 # Exports the OPENAPI_KEY environment variable, which is used in the python script to access the OpenAI API. This is fake key. Don't use it.
 export OPENAPI_KEY=sk-9wvblVeu2fMYmgo7t1gqjkcjAvW0uOaTNQ3lG6HKt37PjSUa
 
-# Generate_smart_business_names.py script using the streamlit run command. 
+# run_ui.py script using the streamlit run command. 
 # The script will run within the "streamlit" environment and have access to the streamlit package and OPENAPI_KEY environment variable.
-streamlit run generate_smart_business_names.py
+streamlit run run_ui.py
